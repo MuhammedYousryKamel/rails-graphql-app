@@ -5,20 +5,20 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
+* Ruby version 2.5.5
+* Rails version 6.1.4
+* mysql2 
+* React.js
+* Apollo client
 
 * Configuration
 
-* Database creation
+* Database creation -> rails db:create db:migrate
 
-* Database initialization
+* How to run the test suite -> bundle exec rspec
 
-* How to run the test suite
+This is a side-project for playing with graphQL using rails 
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+keywords:- rails6-webpacker-mysql2-graphql-rspec-apollo_client-react.js
 
-* ...
